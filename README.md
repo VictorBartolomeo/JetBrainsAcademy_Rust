@@ -1,34 +1,34 @@
-# Apprendre Rust [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+# Learn Rust [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
-## À propos
+## About
 
-Salutations et bienvenue dans mon parcours d'apprentissage de Rust !
+Greetings and welcome to my Rust learning journey!
 
-Je suis **Victor Monteragioni**, développeur fraîchement diplômé d'une formation **Concepteur Développeur
-d'Applications (CDA)** avec une spécialisation en **Java Spring / Angular**.
+I'm **Victor Monteragioni**, a developer who recently graduated from a **Application Designer Developer (CDA)** program
+with a specialization in **Java Spring / Angular**.
 
-### Mes motivations
+### My motivations
 
-Après avoir maîtrisé l'écosystème Java/Spring et Angular, j'ai décidé d'explorer Rust pour plusieurs raisons :
+After mastering the Java/Spring and Angular ecosystem, I decided to explore Rust for several reasons:
 
-- **Performance** : Rust offre des performances comparables au C/C++ avec une sécurité mémoire garantie
-- **Sécurité** : Le système de types de Rust prévient de nombreuses classes d'erreurs courantes
-- **Modernité** : Un langage moderne avec d'excellents outils de développement
-- **Polyvalence** : De la programmation système au développement web, en passant par la blockchain
-- **Complément parfait** : Après Java/Spring, Rust m'apporte une perspective différente sur la programmation
+- **Performance**: Rust offers performance comparable to C/C++ with guaranteed memory safety
+- **Safety**: Rust's type system prevents many common classes of errors
+- **Modernity**: A modern language with excellent development tools
+- **Versatility**: From systems programming to web development, including blockchain
+- **Perfect complement**: After Java/Spring, Rust brings me a different perspective on programming
 
-## Progression actuelle
+## Current Progress
 
-**Étape 6/331** - Introduction / Getting started
+**Step 6/331** - Introduction / Getting started
 
-![Progression](https://img.shields.io/badge/Progression-6%2F331%20(1.81%25)-orange?style=for-the-badge&logo=rust)
+![Progress](https://img.shields.io/badge/Progress-6%2F331%20(1.81%25)-orange?style=for-the-badge&logo=rust)
 
-Ce projet contient de petits exercices pour m'habituer à lire et écrire du code Rust, y compris à lire et répondre aux
-messages du compilateur !
+This project contains small exercises to get me used to reading and writing Rust code, including reading and responding
+to compiler messages!
 
-## Structure du cours
+## Course Structure
 
-- [x] **Introduction** - En cours
+- [x] **Introduction** - In progress
     - [x] Getting started (6/331)
 - [ ] **Common Programming Concepts**
 - [ ] **Understanding Ownership**
@@ -42,9 +42,9 @@ messages du compilateur !
 - [ ] **Fearless Concurrency**
 - [ ] **Macros**
 
-## Crédits
+## Credits
 
-Les matériaux sont basés sur le cours original [rustlings](https://github.com/rust-lang/rustlings) créé
-par [Carol Nichols](https://github.com/carols10cents) ! Le cours est fourni avec les matériaux du
-livre [The Rust Programming Language](https://doc.rust-lang.org/book/index.html), écrit par Steve Klabnik et Carol
-Nichols, avec les contributions de la communauté Rust.
+The materials are based on the original course [rustlings](https://github.com/rust-lang/rustlings) created
+by [Carol Nichols](https://github.com/carols10cents)! The course is provided with the materials
+from [The Rust Programming Language](https://doc.rust-lang.org/book/index.html) book, written by Steve Klabnik and Carol
+Nichols, with contributions from the Rust Community.
