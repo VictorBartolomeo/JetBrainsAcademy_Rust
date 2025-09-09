@@ -4,11 +4,13 @@
 
 Salutations et bienvenue dans mon parcours d'apprentissage de Rust !
 
-Je suis **Victor Monteragioni**, développeur fraîchement diplômé d'une formation **Concepteur Développeur d'Applications (CDA)** avec une spécialisation en **Java Spring / Angular**.
+Je suis **Victor Monteragioni**, développeur fraîchement diplômé d'une formation **Concepteur Développeur
+d'Applications (CDA)** avec une spécialisation en **Java Spring / Angular**.
 
 ### Mes motivations
 
 Après avoir maîtrisé l'écosystème Java/Spring et Angular, j'ai décidé d'explorer Rust pour plusieurs raisons :
+
 - **Performance** : Rust offre des performances comparables au C/C++ avec une sécurité mémoire garantie
 - **Sécurité** : Le système de types de Rust prévient de nombreuses classes d'erreurs courantes
 - **Modernité** : Un langage moderne avec d'excellents outils de développement
@@ -19,11 +21,10 @@ Après avoir maîtrisé l'écosystème Java/Spring et Angular, j'ai décidé d'e
 
 **Étape 6/331** - Introduction / Getting started
 
-![Progression](https://progress-bar.dev/2/?title=Progression&width=400&color=babaca&suffix=/331)
+![Progression](https://img.shields.io/badge/Progression-6%2F331%20(1.81%25)-orange?style=for-the-badge&logo=rust)
 
-**1.81% complété** 🦀
-
-Ce projet contient de petits exercices pour m'habituer à lire et écrire du code Rust, y compris à lire et répondre aux messages du compilateur !
+Ce projet contient de petits exercices pour m'habituer à lire et écrire du code Rust, y compris à lire et répondre aux
+messages du compilateur !
 
 ## Structure du cours
 
@@ -43,4 +44,7 @@ Ce projet contient de petits exercices pour m'habituer à lire et écrire du cod
 
 ## Crédits
 
-Les matériaux sont basés sur le cours original [rustlings](https://github.com/rust-lang/rustlings) créé par [Carol Nichols](https://github.com/carols10cents) ! Le cours est fourni avec les matériaux du livre [The Rust Programming Language](https://doc.rust-lang.org/book/index.html), écrit par Steve Klabnik et Carol Nichols, avec les contributions de la communauté Rust.
+Les matériaux sont basés sur le cours original [rustlings](https://github.com/rust-lang/rustlings) créé
+par [Carol Nichols](https://github.com/carols10cents) ! Le cours est fourni avec les matériaux du
+livre [The Rust Programming Language](https://doc.rust-lang.org/book/index.html), écrit par Steve Klabnik et Carol
+Nichols, avec les contributions de la communauté Rust.
