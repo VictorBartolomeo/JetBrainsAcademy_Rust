@@ -1,0 +1,11 @@
+C:\Users\victo\RustroverProjects\Learn Rust\target\debug\deps\quote-2f2fcd2fa18b3cbf.d: C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\lib.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\ext.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\format.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\ident_fragment.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\to_tokens.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\runtime.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\spanned.rs
+
+C:\Users\victo\RustroverProjects\Learn Rust\target\debug\deps\libquote-2f2fcd2fa18b3cbf.rmeta: C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\lib.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\ext.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\format.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\ident_fragment.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\to_tokens.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\runtime.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\spanned.rs
+
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\lib.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\ext.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\format.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\ident_fragment.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\to_tokens.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\runtime.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.40\src\spanned.rs:

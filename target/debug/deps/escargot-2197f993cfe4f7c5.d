@@ -1,0 +1,15 @@
+C:\Users\victo\RustroverProjects\Learn Rust\target\debug\deps\escargot-2197f993cfe4f7c5.d: C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\lib.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\build.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\cargo.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\msg.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\run.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\error.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\format\mod.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\format\diagnostic.rs C:\Users\victo\RustroverProjects\Learn\ Rust\target\debug\build\escargot-2127801b1559cc15\out/current_target.txt
+
+C:\Users\victo\RustroverProjects\Learn Rust\target\debug\deps\libescargot-2197f993cfe4f7c5.rmeta: C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\lib.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\build.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\cargo.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\msg.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\run.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\error.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\format\mod.rs C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\format\diagnostic.rs C:\Users\victo\RustroverProjects\Learn\ Rust\target\debug\build\escargot-2127801b1559cc15\out/current_target.txt
+
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\lib.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\build.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\cargo.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\msg.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\run.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\error.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\format\mod.rs:
+C:\Users\victo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\escargot-0.5.15\src\format\diagnostic.rs:
+C:\Users\victo\RustroverProjects\Learn\ Rust\target\debug\build\escargot-2127801b1559cc15\out/current_target.txt:
+
+# env-dep:OUT_DIR=C:\\Users\\victo\\RustroverProjects\\Learn Rust\\target\\debug\\build\\escargot-2127801b1559cc15\\out
